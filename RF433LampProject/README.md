@@ -7,6 +7,7 @@ Summary of project & libraries
 ###########################################
 
 Libraries:
+
 	- Tx433-master
 		RF library to communicate with Proove devices
 		Created by Joakim Wesslen. https://github.com/JoakimWesslen/Tx433
